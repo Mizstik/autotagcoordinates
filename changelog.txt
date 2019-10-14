@@ -1,0 +1,10 @@
+---------------------------------------------------------------------------------------------------
+Version: 1.0.0
+Date: 2019.10.14
+  Features:
+    - Automatically appends coordinates of new map tags upon creation.
+    - Octant and cartesian systems available.
+    - Append from left or right side of tag text (or turn off).
+    - Enclose coordinates with () or [] or none.
+  License:
+    - MIT
